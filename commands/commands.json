@@ -1,0 +1,10 @@
+[
+  {
+    "name": "start",
+    "description": "Sends command list and some vot-description" 
+  },
+  {
+    "name": "ping",
+    "description": "Simple test command. Answers with pong"
+  }
+]
