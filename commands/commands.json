@@ -6,5 +6,9 @@
   {
     "name": "ping",
     "description": "Simple test command. Answers with pong"
+  },
+  {
+    "name": "react",
+    "description": "Collects reactions"
   }
 ]
